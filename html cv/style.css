@@ -1,0 +1,64 @@
+body{
+    margin: 0px;
+    padding: 100px;
+    border:3px solid white;
+    border-left-width: 150px;
+    border-right-width: 150px;
+    border-block-start-width: 100px;
+    border-block-end-width: 100px;
+    background-color: lemonchiffon;
+}
+img {
+   transform: rotate(90deg);
+   float: right;
+    
+}
+    
+    
+   
+    
+
+.melumat{
+    background-color: lightcyan;
+    width: 380px;
+
+    
+}
+.o{
+    background-color: lightcyan;
+    width: 250px;
+    
+}
+.elaqe{
+    background-color:lightcyan;
+    width: 380px;
+}
+.tehsil{
+    background-color:lightcyan;
+   width: 380px; 
+}
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+    text-align: center;
+    
+    
+}
+.dil{
+    background-color: lightcyan;
+    width: 380px;
+}
+.komp{
+    background-color: lightcyan;
+    width: 380px
+    
+}
+.staj{
+    background-color: lightcyan;
+    width: 380px;
+}
+h1{
+    font-style: italic;
+}
+
