@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    padding: 20px;
+}
+.menu{
+    width: 100%;
+    height: 170px;
+    
+}
+.temizle{
+    clear: both;
+    width: 100%;
+}
+.menusol{
+    width: 20%;
+    height: 170px;
+    float: left;
+    text-align: left;
+    line-height: 20px;
+    
+}
+.menusag{
+    width: 80%;
+    height: 170px;
+    float: right;
+    text-align: right ;
+    line-height: 20px;
+    }
+.resume{
+    width: 100%;
+    height: 50px;
+    background-color: cornsilk;
+    font-size: 25px;
+    line-height: 50px;
+
+}
+.word{
+    background-color: blue;
+    font-size: 25px;
+    background-color: cornsilk;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+}
+.job{
+    font-size: 150%;
+    
+}
